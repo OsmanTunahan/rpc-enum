@@ -6,6 +6,7 @@ This project contains a script for enumerating RPC (Remote Procedure Call) servi
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Examples](#examples)
 - [License](#license)
 - [Author](#author)
 
@@ -30,6 +31,9 @@ For help and usage options, run:
 ```
 sudo ./rpc-enum.sh -h
 ```
+
+## Examples
+- Coming soon!
 
 ## License
 
